@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋-->
 
-![boxer](https://github.com/legitified-coder/legitified-coder/assets/151834247/9ab90e56-40bc-4359-975d-1bf8169e123a)
+
+![boxer](https://github.com/legitified-coder/legitified-coder/assets/151834247/4eb94d50-285b-4b11-8028-bcc5c8048a0b)
 
 
 
