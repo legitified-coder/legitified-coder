@@ -1,5 +1,9 @@
 <!-- ### Hi there 👋-->
-<p align="center"><img style="border-radius: 15px;" src="https://github.com/legitified-coder/legitified-coder/assets/151834247/eadb3da4-3fbe-4faf-ad97-840ac28d7a30"></p>
+
+![boxer](https://github.com/legitified-coder/legitified-coder/assets/151834247/9ab90e56-40bc-4359-975d-1bf8169e123a)
+
+
+
 <!--
 **legitified-coder/legitified-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
