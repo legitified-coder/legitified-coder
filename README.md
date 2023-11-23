@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋-->
-![sunset-3218412_640](https://github.com/legitified-coder/legitified-coder/assets/151834247/eadb3da4-3fbe-4faf-ad97-840ac28d7a30)
+<p align="center"><img style="border-radius: 15px;" src="https://github.com/legitified-coder/legitified-coder/assets/151834247/eadb3da4-3fbe-4faf-ad97-840ac28d7a30"></p>
 <!--
 **legitified-coder/legitified-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
