@@ -1,11 +1,8 @@
 <!-- ### Hi there 👋-->
-![ezgif com-crop](https://github.com/legitified-coder/legitified-coder/assets/151834247/ecc8e7ff-7c53-4e09-b734-746fb4ea71fa)
 
 
+<img src="https://github.com/legitified-coder/legitified-coder/assets/151834247/139118ed-9c95-4b8f-b3e2-ba2a95201d01">
 
-<img src="https://github.com/legitified-coder/legitified-coder/assets/151834247/34d48827-b288-46f3-8d25-571944a36459">
-
-![meet]()
 
 
 
@@ -22,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![ezgif com-crop](https://github.com/legitified-coder/legitified-coder/assets/151834247/ecc8e7ff-7c53-4e09-b734-746fb4ea71fa)
 -->
