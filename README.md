@@ -1,13 +1,14 @@
 <!-- ### Hi there 👋-->
+![ezgif com-crop](https://github.com/legitified-coder/legitified-coder/assets/151834247/ecc8e7ff-7c53-4e09-b734-746fb4ea71fa)
 
 
-![boxer](https://github.com/legitified-coder/legitified-coder/assets/151834247/4eb94d50-285b-4b11-8028-bcc5c8048a0b)
+
 
 
 
 <!--
 **legitified-coder/legitified-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![boxer](https://github.com/legitified-coder/legitified-coder/assets/151834247/4eb94d50-285b-4b11-8028-bcc5c8048a0b)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
