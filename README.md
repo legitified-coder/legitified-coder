@@ -2,9 +2,8 @@
 
 
 
+<img src="https://github.com/legitified-coder/legitified-coder/assets/151834247/22f79726-6aca-4649-ba8a-1b5682854bc9" alt="Loading my Introduction Banner...">
 
-
-![git-banner](https://github.com/legitified-coder/legitified-coder/assets/151834247/722b286f-d0ee-42dc-abe1-475bcaef970f)
 
 
 <!--
@@ -22,5 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![git-banner](https://github.com/legitified-coder/legitified-coder/assets/151834247/722b286f-d0ee-42dc-abe1-475bcaef970f)
 ![ezgif com-crop](https://github.com/legitified-coder/legitified-coder/assets/151834247/ecc8e7ff-7c53-4e09-b734-746fb4ea71fa)
 -->
