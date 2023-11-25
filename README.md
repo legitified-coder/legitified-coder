@@ -2,8 +2,10 @@
 
 
 
+
 <img src="https://github.com/legitified-coder/legitified-coder/assets/151834247/22f79726-6aca-4649-ba8a-1b5682854bc9" alt="Loading my Introduction Banner...">
 
+![Frame 17](https://github.com/legitified-coder/legitified-coder/assets/151834247/93937062-32c8-4b04-b659-837918adaa01)
 
 
 <!--
@@ -11,6 +13,8 @@
 ![boxer](https://github.com/legitified-coder/legitified-coder/assets/151834247/4eb94d50-285b-4b11-8028-bcc5c8048a0b)
 Here are some ideas to get you started:
 <img src="https://github.com/legitified-coder/legitified-coder/assets/151834247/139118ed-9c95-4b8f-b3e2-ba2a95201d01">
+
+![Frame 17](https://github.com/legitified-coder/legitified-coder/assets/151834247/6ce2780c-a927-4d20-b6cf-3acc520cabf1)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
